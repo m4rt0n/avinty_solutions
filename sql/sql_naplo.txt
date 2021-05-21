@@ -1,0 +1,5 @@
+tervezés: 3 óra
+tábla implementáció: 2 óra
+trigger implementáció: 2 óra
+tesztelés: 2 óra
+csomagba szervezés: 30 perc

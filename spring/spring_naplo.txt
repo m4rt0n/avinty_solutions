@@ -1,0 +1,5 @@
+tervezés: 2 óra
+class implementáció: 2 óra
+API megoldások integrálása: 1 óra
+bónusz feladatok implementációja: 3 óra
+tesztelés: 2 óra
